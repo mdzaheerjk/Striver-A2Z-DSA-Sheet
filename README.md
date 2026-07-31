@@ -1,10 +1,11 @@
-# 🚀 Striver SDE Sheet – 60 Days Complete
+
 
 <div align="center">
 
+# 🚀 Striver SDE Sheet – 60 Days Complete
 # 💻 Striver SDE Sheet Solutions
 
-### 📚 Solved the Complete 60 Days Striver SDE Sheet in C++
+### 📚 Solved the Complete 60 Days Striver SDE Sheet in C++ & Python
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-orange?style=for-the-badge)
@@ -110,6 +111,7 @@ Each day contains the problems assigned in the Striver roadmap along with their 
 # 🛠️ Language Used
 
 * **C++**
+* **Python**
 
 ---
 
